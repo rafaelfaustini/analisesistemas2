@@ -2,3 +2,8 @@
 
 O presente projeto tem a finalidade de implementar um sistema de controle de pedidos da empresa GHfusão,  a fim de melhorar seus  processos.
 (Empresa fictícia)
+
+# Autores
+- Andre Luiz de Oliveira Cunha
+- Rafael Faustini Costa de Oliveira
+- Gabriel Marques de Oliveira Rocha
